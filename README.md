@@ -18,23 +18,21 @@ It can be installed by
 
 ## App Interface images
 #### Hompage
-<img src="https://github.com/AVKavan/Cocoa_vision/assets/107805278/13df6faf-e478-4356-abfd-a9ae62d2fb62" width="250" height="500" />
-<img src="https://github.com/AVKavan/Cocoa_vision/assets/107805278/a3e2412c-5bbc-4717-bad8-fc05d0771cc7" width="250" height="500" />
-![cocoa-4]()
+<img src="https://github.com/AVKavan/Cocoa-Vision-App/assets/107805278/eace71a1-f5dc-4943-991b-0c830798ed2c" width="250" height="500" />
+<img src="https://github.com/AVKavan/Cocoa-Vision-App/assets/107805278/69bd48c1-49f6-4698-b57b-4116a6f99847" width="250" height="500" />
 
 #### Disease detection 
      - photos can either be clicked or uploaded via gallery.
-<img src="https://github.com/AVKavan/WeatherApp-Flutter/assets/107805278/aaa3eb88-8ddc-4039-ac8d-9f456855dc37" width="250" height="500" />
+<img src="https://github.com/AVKavan/Cocoa-Vision-App/assets/107805278/2473aaf3-64db-4f41-8f32-ef980d73809c" width="250" height="500" />
 
 #### Pesticide Recommendation.
-<img src="https://github.com/AVKavan/Cocoa_vision/assets/107805278/62697d48-0d86-485e-aba8-6faee3fc682b" width="250" height="500" />
+<img src="https://github.com/AVKavan/Cocoa-Vision-App/assets/107805278/14f6365f-69f7-4e7f-9575-aaa40bef9413" width="250" height="500" />
 
 #### Cocoa growth requirements page.
-<img src="https://github.com/AVKavan/Cocoa_vision/assets/107805278/603412be-fcf3-44dd-b657-ff823b21ff55" width="250" height="500" />
+<img src="https://github.com/AVKavan/Cocoa-Vision-App/assets/107805278/b5338fad-c9db-4837-bfa0-48fdf432d302" width="250" height="500" />
 
 #### Cocoa health benefits page.
-
-<img src="https://github.com/AVKavan/Cocoa_vision/assets/107805278/01c655fc-6136-4ca3-9fab-c3b39322dbae" width="250" height="500" />
+<img src="https://github.com/AVKavan/Cocoa-Vision-App/assets/107805278/46eef148-b4e9-452f-bbda-a4df500adebb" width="250" height="500" />
 
 
 
